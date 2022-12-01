@@ -1,8 +1,8 @@
-baseurl: https://example.com
+baseurl: https://obliviouscliche.vercel.app/
 languageCode: en-us
 theme: stack
 paginate: 5
-title: Example Site
+title: Oblivious Cliche
 
 # Change it to your Disqus shortname before using
 disqusShortname: stack
@@ -12,7 +12,7 @@ googleAnalytics:
 
 # Theme i18n support
 # Available values: en, fr, id, ja, ko, pt-br, zh-cn, zh-tw, es, de, nl, it, th, el, uk
-DefaultContentLanguage: en
+DefaultContentLanguage: zh-cn
 
 # Set hasCJKLanguage to true if DefaultContentLanguage is in [zh-cn ja ko]
 # This will make .Summary and .WordCount behave correctly for CJK languages.
@@ -30,7 +30,7 @@ params:
     favicon:
 
     footer:
-        since: 2020
+        since: 2022
         customText:
 
     dateFormat:
@@ -38,8 +38,8 @@ params:
         lastUpdated: Jan 02, 2006 15:04 MST
 
     sidebar:
-        emoji: 🍥
-        subtitle: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+        emoji: #🍥#
+        subtitle: 总是说显而易见的陈词滥调
         avatar:
             enabled: true
             local: true
@@ -93,8 +93,8 @@ params:
             requiredMeta:
                 - name
                 - email
-                - url
-            placeholder:
+                #- url
+            placeholder: 如果有什么想说的欢迎留下一点什么
             locale:
                 admin: Admin
 
@@ -188,8 +188,20 @@ menu:
               icon: home
 
     social:
-        - identifier: github
-          name: GitHub
+        #- identifier: github
+        #  name: GitHub
+        #  url: https://github.com/CaiJimmy/hugo-theme-stack
+        #  params:
+        #      icon: brand-github
+
+        #- identifier: twitter
+        #  name: Twitter
+        #  url: https://twitter.com
+        #  params:
+        #      icon: brand-twitter
+
+        - identifier: Email
+          name: Email
           url: https://github.com/CaiJimmy/hugo-theme-stack
           params:
               icon: brand-github
