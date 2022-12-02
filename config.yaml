@@ -133,8 +133,8 @@ params:
             id:
     widgets:
         enabled:
-            - search
-            - toc
+            #- search
+            #- toc
             - categories
             - archives
             - tag-cloud
@@ -178,14 +178,14 @@ params:
 ### To remove about, archive and search page menu item, remove `menu` field from their FrontMatter
 menu:
     main:
-        - identifier: home
-          name: Home
+        - identifier: Home
+          name: 
           url: /
-          weight: -100
+          weight: 0
           params:
               ### For demonstration purpose, the home link will be open in a new tab
-              newTab: flase
-              icon: home
+              newTab: false
+              icon: 
 
     social:
         #- identifier: github
@@ -200,17 +200,17 @@ menu:
         #  params:
         #      icon: brand-twitter
 
+        - identifier: Blog
+          name: Blog
+          url: https://consecutivemetaphor.vercel.app/
+          params:
+              icon: link
+
         - identifier: Email
           name: Email
-          url: https://github.com/CaiJimmy/hugo-theme-stack
+          url: mailtoobliviouscliche@gmail.com
           params:
-              icon: brand-github
-
-        - identifier: twitter
-          name: Twitter
-          url: https://twitter.com
-          params:
-              icon: brand-twitter
+              icon: messages
 
 related:
     includeNewer: true
