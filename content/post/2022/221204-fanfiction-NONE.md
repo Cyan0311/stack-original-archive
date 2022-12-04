@@ -9,7 +9,6 @@ tags:
 categories:
   - Fanfiction
 slug: fanfiction
-comments: true
 draft: false
 ---
 

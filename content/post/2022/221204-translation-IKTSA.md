@@ -10,7 +10,6 @@ tags:
 categories:
   - Translation
 slug: Andrew/Jesse
-comments: true
 draft: false
 ---
 
