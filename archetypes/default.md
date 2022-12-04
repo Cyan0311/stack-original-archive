@@ -1,11 +1,13 @@
 ---
 title: "{{ replace .Name "-" " " | title }}"
-description: 
+description: ""
 date: {{ .Date }}
 image: 
-math: 
-license: 
-hidden: false
+tags:
+  - Hugo
+categories:
+  - 甘普基本变形定律
+slug: 
 comments: true
 draft: true
 ---
