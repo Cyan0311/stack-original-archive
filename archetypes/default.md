@@ -5,9 +5,16 @@ date: {{ .Date }}
 image: 
 tags:
   - Hugo
+  - NC-17
+  - Eduardo/Mark无差
+  - 懒散且慢热的无聊故事
+  - RPS/RPF
+  - Jewnicorn
 categories:
-  - 甘普基本变形定律
-slug: 
+  - Fanfiction
+  - Original
+  - Translation
+slug: fanfiction/original/translation
 comments: true
 draft: true
 ---

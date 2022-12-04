@@ -1,9 +1,9 @@
 ---
 title: "Translation"
-description: "This is an example category"
+description: "非英专的一些潦草的理解。"
 slug: "translation"
-image: hutomo-abrianto-l2jk-uxb1BY-unsplash.jpg
+image: 
 style:
-    background: "#2a9d8f"
+    background: "#4682B4"
     color: "#fff"
 ---

@@ -27,7 +27,7 @@ params:
         - post
     featuredImageField: image
     rssFullContent: true
-    favicon:
+    favicon: /img/favicon.png
 
     footer:
         since: 2022
@@ -205,12 +205,6 @@ menu:
           url: https://consecutivemetaphor.vercel.app/
           params:
               icon: link
-
-        - identifier: Email
-          name: Email
-          url: mailtoobliviouscliche@gmail.com
-          params:
-              icon: messages
 
 related:
     includeNewer: true

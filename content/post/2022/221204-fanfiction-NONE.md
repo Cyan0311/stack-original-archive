@@ -1,14 +1,14 @@
 ---
-title: "一个未来可能会写的故事"
+title: "Fanfiction"
 description: "试一下描述"
-date: 2022-12-04T14:30:27+08:00
+date: 2022-12-04T15:30:27+08:00
 image: 
 tags:
-  - 懒散且慢热的无聊故事
+  - Eduardo/Mark无差
   - NC-17
 categories:
-  - Original
-slug: original
+  - Fanfiction
+slug: fanfiction
 comments: true
 draft: false
 ---
