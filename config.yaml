@@ -94,7 +94,7 @@ params:
                 - name
                 - email
                 #- url
-            placeholder: "如果有什么想说的，欢迎你留下一点什么"
+            placeholder: "如果有什么想说的，欢迎你留下一点什么。"
             locale:
                 admin: Admin
 
@@ -135,8 +135,8 @@ params:
         enabled:
             #- search
             #- toc
-            - categories
-            - archives
+            #- categories
+            #- archives
             - tag-cloud
 
 
