@@ -4,11 +4,13 @@ description: ""
 date: {{ .Date }}
 image: 
 tags:
-  - Hugo
-  - NC-17
+  - Generalaudience
+  - Teenandupaudiences
+  - Mature
+  - Explicit
   - Eduardo/Mark无差
   - 懒散且慢热的无聊故事
-  - RPS/RPF
+  - RPF/RPS
   - Jewnicorn
 categories:
   - Fanfiction

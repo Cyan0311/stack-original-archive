@@ -4,8 +4,8 @@ description: "试一下描述"
 date: 2022-12-04T14:30:27+08:00
 image: 
 tags:
-  - 懒散且慢热的无聊故事
-  - NC-17
+  - Boring
+  - GeneralAudience
 categories:
   - Original
 slug: original

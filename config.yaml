@@ -134,8 +134,8 @@ params:
     widgets:
         enabled:
             #- search
-            #- toc
-            #- categories
+            - toc
+            - categories
             #- archives
             - tag-cloud
 

@@ -1,15 +1,16 @@
 ---
-title: "It Keeps The Stars Apart.(Translation)"
-description: "《Carry It In my heart》的对照版本。"
+title: "(Translation) It Keeps The Stars Apart"
+description: "《Carry It in My heart》的对照版本。"
 date: 2022-12-04T14:09:27+08:00
 image: 
 tags:
   - Jewnicorn
   - RPF/RPS
-  - NC-17
+  - Mature
 categories:
   - Translation
 slug: Andrew/Jesse
+comments: true
 draft: false
 ---
 
