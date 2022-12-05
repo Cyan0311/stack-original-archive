@@ -5,7 +5,8 @@ date: 2022-12-04T14:30:27+08:00
 image: 
 tags:
   - Boring
-  - GeneralAudience
+  - Generalaudience
+  - 试试中文
 categories:
   - Original
 slug: original
