@@ -135,9 +135,9 @@ params:
         enabled:
             #- search
             - toc
-            - categories
+            #- categories
             #- archives
-            - tag-cloud
+            #- tag-cloud
 
 
         archives:
