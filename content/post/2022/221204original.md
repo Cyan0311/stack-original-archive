@@ -9,11 +9,10 @@ tags:
   - 试试中文
 categories:
   - Original
+slug: original
 draft: false
 ---
 
 shi
 
 再次尝试一下文章效果没什么问题就开始使用了。
-
-#slug:、、 original
