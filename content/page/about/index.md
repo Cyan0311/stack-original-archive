@@ -1,13 +1,13 @@
 ---
 title: About
-description: Hugo, the world's fastest framework for building websites
-date: '2019-02-28'
+description: "关于陈词滥调的陈述"
+date: '2022-12-06'
 aliases:
   - about-us
   - about-hugo
   - contact
 license: CC BY-NC-ND
-lastmod: '2020-10-09'
+lastmod: '2022-12-06'
 menu:
     main: 
         weight: -90
@@ -15,20 +15,35 @@ menu:
             icon: user
 ---
 
-Written in Go, Hugo is an open source static site generator available under the [Apache Licence 2.0.](https://github.com/gohugoio/hugo/blob/master/LICENSE) Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
+你好，我是砸门！👀
 
-Hugo makes use of a variety of open source projects including:
+这是一个存文个站，里面包括不限于一些磕cp上头产物、同人女傻笑凝视、很多性癖存放处等等很多混乱邪恶的东西。
 
-* https://github.com/yuin/goldmark
-* https://github.com/alecthomas/chroma
-* https://github.com/muesli/smartcrop
-* https://github.com/spf13/cobra
-* https://github.com/spf13/viper
+如果你不小心点进了并对站里的内容一无所知现在可以通过点网页退出键离开这片混乱之地，因为写下这些东西的人自己脑子不太正常怕误伤到一些非同类人士。
 
-Hugo is ideal for blogs, corporate websites, creative portfolios, online magazines, single page applications or even a website with thousands of pages.
+#### - 文章分级
 
-Hugo is for people who want to hand code their own website without worrying about setting up complicated runtimes, dependencies and databases.
+同AO3，在archive-tags中可以查看，此处就不过多赘述。
 
-Websites built with Hugo are extremelly fast, secure and can be deployed anywhere including, AWS, GitHub Pages, Heroku, Netlify and any other hosting provider.
+#### - 存文个站使用流程
 
-Learn more and contribute on [GitHub](https://github.com/gohugoio).
+点击archive，可以查看categories、tags，以及按照年份排布的文章，按照喜好自取。
+
+搜索功能可以使用中文。
+
+#### archive页面内容简介
+
+- Categories
+
+按照original（原创）、fanfiction（同人）、translation（翻译），三个板块划分，翻译和原创都不一定有，主要使用的应该会是同人板块。那为什么建三个分区，嗯，志向远大，为未来可能存在的东西搭建一定的地基。
+
+- tags
+
+包括cp配对、分级、主要预警，由于本人个人原因，<u>**拆逆无差互攻**</u>以及一系列乱七八糟的元素都可以接受，所以这个一定要注意，所以tags会有点乱，那就让TA乱着吧，也不需要所有都很整齐。
+
+- 按年份排布的文章
+
+我也想看看我一年究竟能搞那些事。
+
+先装模做样的写一个介绍，其他的......等我慢慢慢慢填了内容之后再说😪。
+
