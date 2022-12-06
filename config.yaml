@@ -91,8 +91,8 @@ params:
             emoji:
                 - https://cdn.jsdelivr.net/gh/walinejs/emojis/weibo
             requiredMeta:
-                #- name
-                #- email
+                - name
+                - email
                 #- url
             placeholder: "如果有什么想说的，欢迎你留下一点什么。"
             locale:
