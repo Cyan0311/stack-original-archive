@@ -9,8 +9,7 @@ tags:
   - Mature
 categories:
   - Translation
-slug: It Keeps The Stars Apart
-comments: true
+slug: ItKeepsTheStarsApart
 draft: false
 ---
 

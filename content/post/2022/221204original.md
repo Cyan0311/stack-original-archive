@@ -10,7 +10,6 @@ tags:
 categories:
   - Original
 slug: original
-comments: true
 draft: false
 ---
 
