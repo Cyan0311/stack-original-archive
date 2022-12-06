@@ -9,7 +9,7 @@ tags:
   - Mature
 categories:
   - Translation
-slug: ItKeepsTheStarsApart
+slug: translation
 draft: false
 ---
 
@@ -23,5 +23,4 @@ I want to do with you what spring does with the cherry trees.
 {{< /quote >}}
 
 Andrew 回想起那天可以说是兴奋不已的，因为他那天激动的几乎要灵魂出窍。
-
 
