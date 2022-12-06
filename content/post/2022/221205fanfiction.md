@@ -23,3 +23,5 @@ Try to write something in the article.
 <br><br/>{{< link href="https://github.com/upstage/" content=Upstage title="Visit Upstage!" >}}
 
 <br><br/>
+
+#slug: 、、fanfiction
