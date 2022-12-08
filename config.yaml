@@ -94,7 +94,7 @@ params:
                 #- name
                 #- email
                 #- url
-            placeholder: "如果有什么想说的，欢迎你留下一点什么。"
+            placeholder: "如果有什么想说的，欢迎你留下一点什么。可以选择匿名。"
             locale:
                 admin: Admin
 
