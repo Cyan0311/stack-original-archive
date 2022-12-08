@@ -19,4 +19,6 @@ categories:
 slug: fanfiction/original/translation
 comments: true
 draft: true
+textIndent: false
+h2Center: false
 ---

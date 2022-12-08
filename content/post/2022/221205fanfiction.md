@@ -10,6 +10,8 @@ categories:
   - Fanfiction
 slug: fanfiction
 draft: false
+textIndent: true
+h2Center: false
 ---
 
 Try to write something in the article.

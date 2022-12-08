@@ -14,10 +14,19 @@
 {{ end }}
 
 {{ define "main" }}
+<div class="min-w-0 min-h-0 max-w-prose content">
     {{ partial "article/article.html" . }}
-
+</div>
     {{ partial "article/components/related-contents" . }}
-     
+
+    {{ if .Params.textIndent | default false }}
+      <style>.content p {text-indent: 2em}</style>
+    {{ end }}
+
+    {{ if .Params.h2Center | default false }}
+      <style>.content h2 {text-align: center}</style>
+    {{ end}}
+
     {{ if or (not (isset .Params "comments")) (eq .Params.comments "true")}} 
         {{ partial "comments/include" . }}
     {{ end }}

@@ -11,6 +11,8 @@ categories:
   - Original
 slug: original
 draft: false
+textIndent: true
+h2Center: false
 ---
 
 shi
