@@ -84,7 +84,7 @@ params:
 
         # Waline client configuration see: https://waline.js.org/en/reference/client.html
         waline:
-            serverURL: https://clichewaline.vercel.app/
+            serverURL: https://obcomment.cliche.icu/
             lang: zh-CN
             visitor: true
             avatar: monsterid
