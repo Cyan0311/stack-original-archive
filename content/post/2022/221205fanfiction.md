@@ -1,6 +1,6 @@
 ---
 title: Fanfiction-Jewnicorn
-description: 记一个脑洞，关于卷西这个天秤男视角下的Jewnicorn的分手故事。
+description: 记脑洞，关于卷西这个天秤男视角下的Jewnicorn分手故事和一些安家费发信息零碎片段。
 date: 2022-12-20T00:58:54+00:00
 image: 
 tags:
