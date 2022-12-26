@@ -9,7 +9,7 @@ tags:
   - Jewnicorn
 categories:
   - Fanfiction
-slug: fanfiction
+slug: andrew
 comments: true
 draft: true
 textIndent: true

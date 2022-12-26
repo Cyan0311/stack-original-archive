@@ -9,7 +9,7 @@ tags:
   - Jewnicorn
 categories:
   - Fanfiction
-slug: fanfiction
+slug: jesse
 comments: true
 draft: true
 textIndent: true
