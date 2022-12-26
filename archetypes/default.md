@@ -8,9 +8,9 @@ tags:
   - Teenandupaudiences
   - Mature
   - Explicit
-  - Eduardo/Mark无差
-  - 懒散且慢热的无聊故事
-  - RPF/RPS
+  - EduardoMarkEME
+  - Boring
+  - RPForRFS
   - Jewnicorn
 categories:
   - Fanfiction
